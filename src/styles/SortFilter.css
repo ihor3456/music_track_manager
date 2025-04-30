@@ -1,0 +1,14 @@
+.sort-filter {
+  display: flex;
+  gap: 16px;
+  padding: 16px;
+  background: #f5f5f5;
+  border-radius: 8px;
+  margin-bottom: 16px;
+}
+
+.sort-filter label {
+  display: flex;
+  flex-direction: column;
+  font-size: 0.9rem;
+}
